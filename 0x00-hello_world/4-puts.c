@@ -1,0 +1,34 @@
+#include <stdio.h>
+
+
+
+/**
+
+ * main - print the string in the put function
+
+ * 
+
+ * Description: using the main function
+
+ * this progress prints "programming is like building a multilingual puzzle
+
+ * Return: 0
+
+ */
+
+int main(void)
+
+{
+
+    puts("\"programming is like building a multilingual puzzle");
+
+    return (0);
+
+
+
+}
+
+root@211fae512e9b:~/alx-low_level_programming/0x00-hello_world# chmod u+x 4-puts.c
+
+root@211fae512e9b:~/alx-low_level_programming/0x00-hello_world# ls
+ls
