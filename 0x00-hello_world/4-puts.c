@@ -1,6 +1,4 @@
-#include <stdio.h>
-
-
+#include <stdio.h>
 
 /**
 
@@ -26,9 +24,3 @@ int main(void)
 
 
 
-}
-
-root@211fae512e9b:~/alx-low_level_programming/0x00-hello_world# chmod u+x 4-puts.c
-
-root@211fae512e9b:~/alx-low_level_programming/0x00-hello_world# ls
-ls
