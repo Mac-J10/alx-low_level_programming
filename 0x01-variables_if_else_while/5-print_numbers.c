@@ -9,11 +9,9 @@
 
 int main(void);
 {
-for (i = 0; i < 10; i++)[A[A[D[D[D[D[D[D[D[D[D[D[[B[B[C[C[C[C[C[C[C[C[C[C;
+for (i = 0; i < 10; i++)
 {
 	printf("%i", i);
-}printf("\n");[D[D[D[D[D[D[D[D[D[D[D[D[D
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D
-printf[B[C[C[C[C[C[C[C[C[C[C[C[C
+}printf("\n");
 return (0);
 }
